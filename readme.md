@@ -53,16 +53,18 @@ alter
 
 ![alter](https://github.com/bonfils19/oracle_pdb_ass_II_rubayiza_bonfils_gael_28925/blob/main/screenshots/Screenshot%20(51).png)
 
+database deletion
+
 ![alter](https://github.com/bonfils19/oracle_pdb_ass_II_rubayiza_bonfils_gael_28925/blob/main/screenshots/Screenshot%20(53).png)
+
+task 3 oem setup
+Accessed OEM at https://localhost:5500/em, logged in, dashboard shows CDB + PDBs.
+
+
+
 
 # PDB name is: rb_pdb_28925
 
 # issues encounterd: yes i have issues
 
-on the task 4
-
-
-
-oem dashboard
-
-not working. i have an issue on 
+on the oem dashboard not working. i have an issue on 
