@@ -49,9 +49,11 @@ creating database
 
 ![creating database](https://github.com/bonfils19/oracle_pdb_ass_II_rubayiza_bonfils_gael_28925/blob/main/screenshots/Screenshot%20(50).png)
 
-database deletion
+alter
 
-![database deletion](https://github.com/bonfils19/oracle_pdb_ass_II_rubayiza_bonfils_gael_28925/blob/main/screenshots/Screenshot%20(51).png)
+![alter](https://github.com/bonfils19/oracle_pdb_ass_II_rubayiza_bonfils_gael_28925/blob/main/screenshots/Screenshot%20(51).png)
+
+![alter](https://github.com/bonfils19/oracle_pdb_ass_II_rubayiza_bonfils_gael_28925/blob/main/screenshots/Screenshot%20(53).png)
 
 # PDB name is: rb_pdb_28925
 
