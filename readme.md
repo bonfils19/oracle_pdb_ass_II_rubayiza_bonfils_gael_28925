@@ -60,7 +60,7 @@ database deletion
 task 3 oem setup
 Accessed OEM at https://localhost:5500/em, logged in, dashboard shows CDB + PDBs.
 
-
+![oem setup](https://github.com/bonfils19/oracle_pdb_ass_II_rubayiza_bonfils_gael_28925/blob/main/screenshots/Screenshot%20(54).png)
 
 
 # PDB name is: rb_pdb_28925
